@@ -2,4 +2,4 @@
 Virus Repository 
 
 ## Screenshot 
-![Screenshot](https://i.postimg.cc/Sy6jRRrB/Screenshot-20200425-145623-Termux.jpg) 
+![Screenshot-at-2021-05-24-20-29-24.png](https://i.postimg.cc/y6Zhc6T3/Screenshot-at-2021-05-24-20-29-24.png)
