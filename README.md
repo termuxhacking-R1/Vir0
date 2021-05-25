@@ -25,4 +25,4 @@ Virus Repository
 
 ## Automatic Linux Installatin
 
-``apt update && git clone https://github.com/termuxhacking-R1/Vir0 && cd Vir0 && python2 Vir0``
+``git clone https://github.com/termuxhacking-R1/Vir0 && cd Vir0 && python2 Vir0``
